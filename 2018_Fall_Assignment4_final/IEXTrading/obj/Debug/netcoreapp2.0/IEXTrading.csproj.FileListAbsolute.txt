@@ -1,0 +1,33 @@
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.deps.json
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.runtimeconfig.json
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.runtimeconfig.dev.json
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.dll
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.pdb
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.csprojAssemblyReference.cache
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.AssemblyInfoInputs.cache
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.AssemblyInfo.cs
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.dll
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.pdb
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.deps.json
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.runtimeconfig.json
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.runtimeconfig.dev.json
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.dll
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.pdb
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.csprojAssemblyReference.cache
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.csproj.CoreCompileInputs.cache
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.AssemblyInfoInputs.cache
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.AssemblyInfo.cs
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.dll
+C:\Users\Carole\Source\Repos\2018_Fall_Assignment4_NOV28\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.pdb
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.deps.json
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.runtimeconfig.json
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.runtimeconfig.dev.json
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.dll
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\bin\Debug\netcoreapp2.0\IEXTrading.pdb
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.csprojAssemblyReference.cache
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.AssemblyInfoInputs.cache
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.AssemblyInfo.cs
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.dll
+C:\Users\Christopher Johnson\Desktop\MS BAIS\Distributed Info\VS\2018_Fall_Assignment4-master\2018_Fall_Assignment4-master\IEXTrading\obj\Debug\netcoreapp2.0\IEXTrading.pdb

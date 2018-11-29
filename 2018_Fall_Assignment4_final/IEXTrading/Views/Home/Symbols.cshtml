@@ -1,0 +1,96 @@
+﻿@model IEnumerable<IEXTrading.Models.Company>
+
+<h2>Symbols</h2>
+<hr />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Symbol
+            </th>
+            <th>
+                Company Name
+            </th>
+            <th>
+                Sector
+            </th>
+            <th>
+                Open
+            </th>
+            <th>
+                Close
+            </th>
+            <th>
+                High
+            </th>
+            <th>
+                Low
+            </th>
+            <th>
+                Latest Volume
+            </th>
+            <th>
+                Price Earnings Ratio
+            </th>
+            <th>
+                52 Week High
+            </th>
+            <th>
+                52 Week Low
+            </th>
+
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.symbol)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.companyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sector)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.open)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.close)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.high)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.low)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.latestVolume)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.peRatio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.week52High)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.week52Low)
+            </td>
+        </tr>
+        }
+        <tr>
+            <td>
+                <a id="dbopt" asp-controller="Home" asp-action="PopulateSymbols" >  <img src="~/images/button_save-data.png" />
+                    </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<script>
+    alertDbSave(@ViewBag.dbSuccessComp);
+</script>

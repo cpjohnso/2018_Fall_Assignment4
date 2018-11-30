@@ -3,7 +3,7 @@
     ViewData["Title"] = "About Us";
 }
 
-<h2>AboutUs</h2>
+<h2>About Us</h2>
 
 <div>
     <p>
@@ -39,18 +39,10 @@
         Currently, we have this api set to retrieving gainers.  Ideally, we would want to retrieve the universe of stocks to make our calculations.  This would involve recursively retrieving stocks from all ten sectors.
         <br />
         <br />
-        We initially had issues saving more than 30 records at a time.  As a workaround, we modified the getSymbols() function to only store a subset of records at a time.
+        We had issues saving company records.  We tried several workarounds but currently our max number of records that can be saved is 30. .
         <br />
         <br />
-        Currently, once the subset of symbols are loaded and saved, it is necessary to exit the page and come back in order to load more symbols.
-        An enhancement would be automatically refresh the page after it is saved.
-        <br />
-        <br />
-        We also get an out of bounds error when trying to load symbols beyond the range available in the gainers selection of the collections api.  We did not have the time to properly resolve this error.  Therefore, users will
-        experience an error when trying to retrieve and save more than a total of 90 records for the Company table. 
-        <br />
-        <br />
-        Once we had the data stored, then we had to add new functions (actions) to the controller file using Language-Integrated Query (LINQ) functionality to incorporate the stock picking buy and sell logic and retrieve the relevant stocks.
+         Once we had the data stored, then we had to add new functions (actions) to the controller file using Language-Integrated Query (LINQ) functionality to incorporate the stock picking buy and sell logic and retrieve the relevant stocks.
         <br />
         <br />
         We also created new views called Top5Picks.cshtml and Top5Sell.cshtml with the necessary format to display the results of the Top5picks and Top5Sell actions.
